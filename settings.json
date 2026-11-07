@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK",
   "bot-account": {
     "username": "COMATOZZE",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BITEDSMPS2.aternos.me",
-    "port": 55494,
+    "ip": "bitedsmp2.mangoohost.live",
+    "port": 20407,
     "version": "1.20.1",
     "try-creative": false
   },
